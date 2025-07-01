@@ -26,6 +26,8 @@ The project was developed for [the following](https://youtu.be/VrQRa-afCAk) YouT
 8. Start vite server - `npm run dev`
 9. Start Artisan server - `php artisan serve`
 
+
+
 ## Demo
 Coming soon...
 
