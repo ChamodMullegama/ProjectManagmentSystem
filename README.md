@@ -3,7 +3,6 @@ A simple project management application using Laravel 11 and React.
 
 The project was developed for [the following](https://youtu.be/VrQRa-afCAk) YouTube tutorial.
 
-
 ## Features
 1. Registration & Login
 2. Projects CRUD with sorting, filtering and pagination
