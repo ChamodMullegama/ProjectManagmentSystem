@@ -7,6 +7,11 @@ The project was developed for [the following](https://youtu.be/VrQRa-afCAk) YouT
 
 
 
+
+
+
+
+
 1. Registration & Login
 2. Projects CRUD with sorting, filtering and pagination
 3. Tasks CRUD with sorting, filtering and pagination
