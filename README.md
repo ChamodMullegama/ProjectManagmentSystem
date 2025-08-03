@@ -13,6 +13,9 @@ The project was developed for [the following](https://youtu.be/VrQRa-afCAk) YouT
 7. View Tasks assigned to me
 8. Show dashboard with overview information
 
+
+
+
 ## Installation
 1. Clone the project
 2. Navigate to the project's root directory using terminal
